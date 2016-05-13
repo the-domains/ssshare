@@ -1,4 +1,4 @@
-name: 'Sexual & Spiritual Violence Survivors Healing and Accountability Resource Exchange'
+name: SSSHARE
 favicon: null
 layout_spectrum: 0.40634
 typography_spectrum: 0.63575
@@ -22,8 +22,8 @@ color:
     - '#37d8cc'
     - '#005e4f'
     - '#0d9b8c'
-  brandStrength: 0.8125
-  lightness: 0.39234195090830326
-  saturation: 0.042378866113722324
+  brandStrength: 1
+  lightness: 0.1875
+  saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
