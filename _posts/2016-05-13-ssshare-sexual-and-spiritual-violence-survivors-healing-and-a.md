@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-13T20:17:08.669Z'
-dateModified: '2016-05-13T20:01:34.526Z'
+description: "SSSHARE: Sexual & Spiritual Violence Survivor's Healing and Accountability Resource Exchange"
+datePublished: '2016-05-13T20:27:44.498Z'
+dateModified: '2016-05-13T20:25:53.813Z'
 title: "A person's faith and belief system is central in recovery from trauma. When faith leaders perpetrate violence, participate in violence or in a cover-up, when they address violence poorly or not at all, survivors' very belief systems and spirituality is deeply harmed. How can a survivor make meaning of their experiences when their understanding of the world has been turned upside down? "
 author: []
 authors: []
