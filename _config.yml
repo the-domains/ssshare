@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jennifer A. Yoder
+  email: jyoder@intoaccount.org
+  url: 'http://www.intoaccount.org'
 name: Yoder Consulting
 cta:
   domain: null
