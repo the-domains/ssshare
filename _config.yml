@@ -1,20 +1,4 @@
-name: SSSHARE
-favicon: null
-layout_spectrum: 0.67699
 typography_spectrum: 0.61838
-title: 'SSSHARE: Sexual & Spiritual Violence Survivors Healing and Accountability Resource Exchange'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#989793'
@@ -26,4 +10,20 @@ color:
   lightness: 0.8125
   saturation: 0.0625
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67699
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SSSHARE
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Jennifer A. Yoder, Yoder Consulting'
 purpose: []
