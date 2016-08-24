@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-08-24T00:33:40.576Z'
-datePublished: '2016-08-24T00:35:52.751Z'
-title: Violence Prevention & Education
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-24T00:55:10.770Z'
 sourcePath: _posts/2016-08-24-violence-prevention-and-education.md
+author: []
+via: {}
+dateModified: '2016-08-24T00:55:10.502Z'
+title: Violence Prevention & Education
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
