@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-24T02:19:52.839Z'
+datePublished: '2016-08-24T03:29:57.251Z'
 author: []
 via: {}
-dateModified: '2016-08-24T02:19:49.465Z'
+dateModified: '2016-08-24T03:29:56.963Z'
 title: Communications Consulting
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-24-communications-consulting.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: communications-consulting/index.html
 _context: 'http://schema.org'
 _type: Article
