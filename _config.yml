@@ -23,6 +23,7 @@ author:
   name: Jennifer A. Yoder
   email: jyoder@intoaccount.org
   url: 'http://www.intoaccount.org'
+logo: null
 name: J. Yoder Consulting
 cta:
   domain: null
@@ -35,7 +36,8 @@ navigation:
   - name: Communications
     id: 0b79ae2c-89b0-4235-946e-19d863ffc7be
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/da87ece3-063d-488a-af2c-e6ca9970704b.jpg
 title: Jennifer A. Yoder
 description: Data-Driven Consulting for Non-Profits and Businesses
 purpose: []
