@@ -23,7 +23,7 @@ author:
   name: Jennifer A. Yoder
   email: jyoder@intoaccount.org
   url: 'http://www.intoaccount.org'
-name: Yoder Consulting
+name: J. Yoder Consulting
 cta:
   domain: null
   bucket: null
@@ -31,6 +31,9 @@ cta:
 navigation:
   - name: Violence Prevention
     id: 80feeb14-da03-4e84-b3c0-4b20ef3b13bd
+    type: content
+  - name: Communications
+    id: e5b442ed-b2b0-40cc-8f43-1b30de1ce467
     type: content
 favicon: null
 title: Jennifer A. Yoder
