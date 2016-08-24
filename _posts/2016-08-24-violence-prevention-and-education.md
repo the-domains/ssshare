@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T01:22:07.543Z'
+datePublished: '2016-08-24T01:59:37.386Z'
 sourcePath: _posts/2016-08-24-violence-prevention-and-education.md
 author: []
 via: {}
-dateModified: '2016-08-24T01:22:07.268Z'
+dateModified: '2016-08-24T01:59:37.089Z'
 title: Violence Prevention & Education
 publisher: {}
 description: ''
