@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T00:55:10.770Z'
+datePublished: '2016-08-24T01:15:33.253Z'
 sourcePath: _posts/2016-08-24-violence-prevention-and-education.md
 author: []
 via: {}
-dateModified: '2016-08-24T00:55:10.502Z'
+dateModified: '2016-08-24T01:15:32.177Z'
 title: Violence Prevention & Education
 publisher: {}
 description: ''
@@ -18,9 +18,9 @@ _type: MediaObject
 
 # Violence Prevention & Education
 
-* Violence Prevention & Education in Christian Contexts [via IntoAccount][0]
+* [Violence Prevention, Education, and Accountability in a Christian Context][0]
 * Undoing Oppressions Workshops
-* Displacing Whiteness with [Robyn Henderson-Espinoza][1]
+* [Displacing Whiteness with Robyn Henderson-Espinoza][1]
 
 [0]: http://www.intoaccount.org/
 [1]: http://getdisrupting.com/
